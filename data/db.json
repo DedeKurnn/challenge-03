@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "d537be61-4765-4eb6-82a4-1882154f4019",
+      "task": "kcucing garong",
+      "complete": true
+    },
+    {
+      "id": "74e618af-39b9-44de-b10a-b3e596d674d1",
+      "task": "makan ayam bakar madu",
+      "complete": false
+    },
+    {
+      "id": "643398f6-84ce-4024-96fc-e15adaab831e",
+      "task": "makan nasi goreng sambal geprek",
+      "complete": true
+    },
+    {
+      "id": "659f4157-0c2d-4247-94f0-8d15d8e56344",
+      "task": "Belajar next js",
+      "complete": false
+    }
+  ]
+}
